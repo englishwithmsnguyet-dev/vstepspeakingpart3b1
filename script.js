@@ -2583,6 +2583,776 @@ const ALL_TOPICS_POOL = [
         "a": "No, I don't think so. Students from any school can <strong>work hard and learn practical skills</strong>. This can help them <strong>find a good job in the future</strong>."
       }
     ]
+  },
+  {
+    "id": "b-topic-16",
+    "category": "benefits",
+    "categoryName": "Nhóm Lợi Ích",
+    "topicCode": "ĐỀ SỐ 16",
+    "title": "Having lunch at the school canteen has a lot of benefits.",
+    "center": "Lunch at canteen",
+    "branches": [
+      {
+        "num": 1,
+        "text": "cheap",
+        "pos": "top",
+        "type": "adj",
+        "vi": "Giá cả phải chăng, tiết kiệm"
+      },
+      {
+        "num": 2,
+        "text": "convenient",
+        "pos": "right",
+        "type": "adj",
+        "vi": "Tiện lợi, không cần đi xa"
+      },
+      {
+        "num": 3,
+        "text": "time-saving",
+        "pos": "bottom",
+        "type": "adj",
+        "vi": "Tiết kiệm thời gian nghỉ ngơi"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "How does a school attract more students to have lunch at its canteen?",
+        "vi": "Làm thế nào để trường học thu hút nhiều học sinh ăn trưa tại căng tin hơn?",
+        "a": "I think schools should <strong>provide delicious and affordable food</strong>. They can also <strong>offer more food choices</strong> and <strong>keep the canteen clean</strong>. As a result, more students may choose to eat there."
+      },
+      {
+        "q": "What are some disadvantages of eating at the canteen?",
+        "vi": "Một số nhược điểm của việc ăn ở căng tin là gì?",
+        "a": "The canteen may be <strong>crowded and noisy during lunchtime</strong>. Students may also <strong>have limited food choices</strong>. Therefore, some students may <strong>prefer eating at home</strong>."
+      },
+      {
+        "q": "What should schools do to have hygienic and healthy meals for students?",
+        "vi": "Nhà trường nên làm gì để có những bữa ăn vệ sinh và lành mạnh cho học sinh?",
+        "a": "Schools should <strong>use fresh ingredients every day</strong>. They should also <strong>keep the kitchen clean</strong> and <strong>check food safety regularly</strong>. This can help students <strong>stay healthy</strong>."
+      }
+    ]
+  },
+  {
+    "id": "b-topic-17",
+    "category": "benefits",
+    "categoryName": "Nhóm Lợi Ích",
+    "topicCode": "ĐỀ SỐ 17",
+    "title": "There are some benefits of living alone for students.",
+    "center": "Living alone",
+    "branches": [
+      {
+        "num": 1,
+        "text": "independent",
+        "pos": "top",
+        "type": "adj",
+        "vi": "Rèn luyện tính tự lập"
+      },
+      {
+        "num": 2,
+        "text": "free",
+        "pos": "right",
+        "type": "adj",
+        "vi": "Tự do giờ giấc và sinh hoạt"
+      },
+      {
+        "num": 3,
+        "text": "peaceful",
+        "pos": "bottom",
+        "type": "adj",
+        "vi": "Không gian yên bình, không bị làm phiền"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "Is living alone popular among students? Why/ why not?",
+        "vi": "Sống một mình có phổ biến ở sinh viên không? Tại sao / tại sao không?",
+        "a": "Yes, I think it is <strong>becoming more popular</strong>. Many students want to <strong>have their own space</strong> and <strong>learn how to live independently</strong>."
+      },
+      {
+        "q": "What are the disadvantages of living alone?",
+        "vi": "Những bất lợi của việc sống một mình là gì?",
+        "a": "Living alone can be <strong>quite expensive for students</strong>. Besides, they may <strong>feel lonely</strong> when they are sick or <strong>have problems with housework</strong>."
+      },
+      {
+        "q": "Do students now live alone more than their parents' generation did? Why/ Why not?",
+        "vi": "Sinh viên ngày nay có sống một mình nhiều hơn thế hệ cha mẹ trước đây không?",
+        "a": "Yes, I think so. Nowadays, more students <strong>move to big cities for university</strong>. Families also <strong>have better financial conditions</strong> to support their children."
+      }
+    ]
+  },
+  {
+    "id": "b-topic-18",
+    "category": "benefits",
+    "categoryName": "Nhóm Lợi Ích",
+    "topicCode": "ĐỀ SỐ 18",
+    "title": "Living on campus is beneficial to college students.",
+    "center": "Living on campus",
+    "branches": [
+      {
+        "num": 1,
+        "text": "convenience",
+        "pos": "top",
+        "type": "noun",
+        "vi": "Sự tiện lợi trong đi lại và học tập"
+      },
+      {
+        "num": 2,
+        "text": "networking",
+        "pos": "right",
+        "type": "noun",
+        "vi": "Kết nối, mở rộng bạn bè"
+      },
+      {
+        "num": 3,
+        "text": "reasonable cost",
+        "pos": "bottom",
+        "type": "noun",
+        "vi": "Chi phí hợp lý, tiết kiệm"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What are the disadvantages of living on campus?",
+        "vi": "Những bất lợi của việc sống trong ký túc xá là gì?",
+        "a": "One disadvantage is that students may <strong>have less personal privacy</strong>. In addition, they have to <strong>follow strict dormitory rules and curfew hours</strong>."
+      },
+      {
+        "q": "What are the advantages and disadvantages of living off campus?",
+        "vi": "Ưu và nhược điểm của việc thuê trọ ngoài khuôn viên trường là gì?",
+        "a": "Living off campus gives students <strong>more freedom and private space</strong>. However, it is usually <strong>more expensive and takes more time to travel</strong> to school."
+      },
+      {
+        "q": "Do you prefer living on campus or living off campus?",
+        "vi": "Bạn thích sống trong ký túc xá hay ở trọ bên ngoài hơn?",
+        "a": "I prefer living on campus because it is <strong>convenient and affordable for students</strong>. It also helps me <strong>be on time for early classes</strong>."
+      }
+    ]
+  },
+  {
+    "id": "b-topic-19",
+    "category": "benefits",
+    "categoryName": "Nhóm Lợi Ích",
+    "topicCode": "ĐỀ SỐ 19",
+    "title": "There are many benefits of living in a dormitory.",
+    "center": "Living in a dormitory",
+    "branches": [
+      {
+        "num": 1,
+        "text": "make new friends",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Làm quen thêm nhiều bạn mới"
+      },
+      {
+        "num": 2,
+        "text": "be close to the classroom",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Gần lớp học, tiết kiệm thời gian di chuyển"
+      },
+      {
+        "num": 3,
+        "text": "improve life skills",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Rèn luyện kỹ năng sống tự lập"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What are the challenges of living in a dormitory?",
+        "vi": "Những khó khăn thử thách khi sống trong ký túc xá là gì?",
+        "a": "One major challenge is the <strong>lack of privacy because of shared rooms</strong>. In addition, roommates may <strong>have different lifestyles and argue easily</strong>."
+      },
+      {
+        "q": "Do you think all students should live in dormitories? Why or why not?",
+        "vi": "Bạn có nghĩ tất cả sinh viên nên sống trong ký túc xá không?",
+        "a": "No, I do not think so. Different students <strong>have different habits and needs</strong>. Some students <strong>need quiet places to study effectively</strong>."
+      },
+      {
+        "q": "How can students solve conflicts with roommates?",
+        "vi": "Sinh viên có thể giải quyết xung đột với bạn cùng phòng bằng cách nào?",
+        "a": "Students should <strong>communicate openly and respectfully</strong>. They can also <strong>create common room rules together</strong> to avoid future problems."
+      }
+    ]
+  },
+  {
+    "id": "d-topic-07",
+    "category": "drawbacks",
+    "categoryName": "Nhóm Bất Lợi",
+    "topicCode": "ĐỀ SỐ 07",
+    "title": "There are a lot of disadvantages to keeping animals in zoos.",
+    "center": "Keeping animals in zoos",
+    "branches": [
+      {
+        "num": 1,
+        "text": "lack of space",
+        "pos": "top",
+        "type": "noun",
+        "vi": "Thiếu không gian sống tự nhiên"
+      },
+      {
+        "num": 2,
+        "text": "lack of survival skills",
+        "pos": "right",
+        "type": "noun",
+        "vi": "Mất dần kỹ năng sinh tồn tự nhiên"
+      },
+      {
+        "num": 3,
+        "text": "loss of freedom",
+        "pos": "bottom",
+        "type": "noun",
+        "vi": "Mất tự do, bị giam giữ"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What kinds of animals are usually kept in zoos?",
+        "vi": "Những loài động vật nào thường được nuôi nhốt trong sở thú?",
+        "a": "Zoos usually keep <strong>wild animals such as tigers, lions, elephants, and monkeys</strong>. They also have <strong>birds, reptiles, and sea creatures</strong>."
+      },
+      {
+        "q": "What are the benefits of keeping animals in zoos?",
+        "vi": "Những lợi ích của việc giữ động vật trong sở thú là gì?",
+        "a": "Zoos can <strong>protect endangered animals from extinction</strong>. They also <strong>educate children about wildlife and nature conservation</strong>."
+      },
+      {
+        "q": "What can people do to protect wildlife species?",
+        "vi": "Con người có thể làm gì để bảo vệ các loài động vật hoang dã?",
+        "a": "People should <strong>stop buying illegal wildlife products</strong>. Governments should also <strong>protect natural forests and punish illegal hunters strictly</strong>."
+      }
+    ]
+  },
+  {
+    "id": "d-topic-08",
+    "category": "drawbacks",
+    "categoryName": "Nhóm Bất Lợi",
+    "topicCode": "ĐỀ SỐ 08",
+    "title": "There are several negative effects of online communication.",
+    "center": "Online communication",
+    "branches": [
+      {
+        "num": 1,
+        "text": "reduce face-to-face interaction",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Làm giảm tương tác trực tiếp"
+      },
+      {
+        "num": 2,
+        "text": "lead to conflict",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Dễ dẫn đến hiểu lầm, xung đột"
+      },
+      {
+        "num": 3,
+        "text": "get distracted easily",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Dễ bị xao nhãng khỏi công việc/học tập"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What kind of modern communication technology do you use most often?",
+        "vi": "Bạn thường sử dụng công nghệ giao tiếp hiện đại nào nhất?",
+        "a": "I mostly use <strong>messaging apps on my smartphone like Zalo and Messenger</strong>. They help me <strong>send text messages and make free video calls</strong> easily."
+      },
+      {
+        "q": "Do you think technology will completely replace face-to-face communication in the future?",
+        "vi": "Liệu công nghệ có thay thế hoàn toàn giao tiếp trực tiếp trong tương lai không?",
+        "a": "No, I do not think so. Face-to-face communication is <strong>more personal and emotional</strong>. People still need <strong>direct meetings to build true trust and deep friendships</strong>."
+      },
+      {
+        "q": "How can people avoid problems caused by online communication?",
+        "vi": "Mọi người có thể tránh những rắc rối do giao tiếp trực tuyến gây ra bằng cách nào?",
+        "a": "People should <strong>write clear and polite messages</strong>. If an argument happens, they should <strong>call directly or meet in person to resolve it calmly</strong>."
+      }
+    ]
+  },
+  {
+    "id": "d-topic-09",
+    "category": "drawbacks",
+    "categoryName": "Nhóm Bất Lợi",
+    "topicCode": "ĐỀ SỐ 09",
+    "title": "There are several drawbacks of internships.",
+    "center": "Internships",
+    "branches": [
+      {
+        "num": 1,
+        "text": "unpaid or low-paid work",
+        "pos": "top",
+        "type": "noun",
+        "vi": "Công việc không lương hoặc lương rất thấp"
+      },
+      {
+        "num": 2,
+        "text": "heavy workload and pressure",
+        "pos": "right",
+        "type": "noun",
+        "vi": "Khối lượng công việc lớn và nhiều áp lực"
+      },
+      {
+        "num": 3,
+        "text": "limited guidance",
+        "pos": "bottom",
+        "type": "noun",
+        "vi": "Ít nhận được sự hướng dẫn chu đáo"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "Do you think students should be required to complete an internship before graduation? Why?",
+        "vi": "Có nên bắt buộc sinh viên hoàn thành kỳ thực tập trước khi tốt nghiệp không?",
+        "a": "Yes, I think so. An internship helps students <strong>gain practical work experience and apply theoretical knowledge</strong>. It also prepares them for <strong>future professional employment</strong>."
+      },
+      {
+        "q": "How do internships influence students’ future job opportunities?",
+        "vi": "Kỳ thực tập ảnh hưởng như thế nào đến cơ hội việc làm sau này của sinh viên?",
+        "a": "Internships can <strong>make students' CVs look more impressive</strong>. Moreover, good interns often <strong>receive official job offers from companies</strong> right after graduation."
+      },
+      {
+        "q": "What can universities do to help students have better internship experiences?",
+        "vi": "Các trường đại học có thể làm gì để giúp sinh viên có trải nghiệm thực tập tốt hơn?",
+        "a": "Universities should <strong>partner with reputable companies</strong>. They should also <strong>provide career workshops to prepare students with essential interview and workplace skills</strong>."
+      }
+    ]
+  },
+  {
+    "id": "c-topic-07",
+    "category": "causes",
+    "categoryName": "Nhóm Nguyên Nhân / Lý Do",
+    "topicCode": "ĐỀ SỐ 07",
+    "title": "There are several reasons why responsibility is important.",
+    "center": "Responsibility",
+    "branches": [
+      {
+        "num": 1,
+        "text": "improve teamwork skills",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Nâng cao kỹ năng làm việc nhóm"
+      },
+      {
+        "num": 2,
+        "text": "earn trust from others",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Giành được sự tin cậy từ người khác"
+      },
+      {
+        "num": 3,
+        "text": "achieve better results",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Đạt được kết quả và thành tích tốt hơn"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What are some responsibilities that young people should have?",
+        "vi": "Những trách nhiệm mà người trẻ nên có là gì?",
+        "a": "Young people should <strong>study seriously and respect their parents</strong>. In addition, they should <strong>obey the laws and contribute positively to community activities</strong>."
+      },
+      {
+        "q": "Do you think people today are more or less responsible than in the past? Why?",
+        "vi": "Bạn nghĩ người ngày nay có trách nhiệm hơn hay ít hơn trước đây?",
+        "a": "I think people today are <strong>equally responsible</strong>. Many young people are <strong>very active in environmental protection and social projects</strong> to help others."
+      },
+      {
+        "q": "How can parents or schools teach children to become more responsible?",
+        "vi": "Cha mẹ hoặc nhà trường có thể dạy trẻ trở nên có trách nhiệm hơn bằng cách nào?",
+        "a": "Parents can <strong>give children daily household chores</strong>. Schools should also <strong>encourage group projects so children learn to finish their own parts</strong>."
+      }
+    ]
+  },
+  {
+    "id": "c-topic-08",
+    "category": "causes",
+    "categoryName": "Nhóm Nguyên Nhân / Lý Do",
+    "topicCode": "ĐỀ SỐ 08",
+    "title": "There are several reasons why training workshops are important in life.",
+    "center": "Training workshops",
+    "branches": [
+      {
+        "num": 1,
+        "text": "update knowledge",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Cập nhật những kiến thức mới"
+      },
+      {
+        "num": 2,
+        "text": "develop new professional skills",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Phát triển thêm các kỹ năng chuyên môn"
+      },
+      {
+        "num": 3,
+        "text": "expand social networks",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Mở rộng các mối quan hệ xã hội và nghề nghiệp"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What kinds of workshops are popular in your area?",
+        "vi": "Những loại hội thảo nào đang phổ biến ở khu vực của bạn?",
+        "a": "<strong>Language workshops and digital marketing seminars</strong> are very popular in my city. Many students and young workers attend them to <strong>upgrade their skills for better jobs</strong>."
+      },
+      {
+        "q": "Why do some people prefer online workshops to face-to-face ones?",
+        "vi": "Tại sao một số người thích các hội thảo trực tuyến hơn gặp mặt trực tiếp?",
+        "a": "They prefer online workshops because they are <strong>flexible and save travel time</strong>. Participants can <strong>join from home and review recorded lessons anytime</strong>."
+      },
+      {
+        "q": "How can companies encourage their employees to join training workshops?",
+        "vi": "Các công ty có thể khuyến khích nhân viên tham gia các buổi đào tạo bằng cách nào?",
+        "a": "Companies should <strong>pay for workshop fees and organize training during working hours</strong>. They can also <strong>offer bonuses or promotion opportunities</strong> to active learners."
+      }
+    ]
+  },
+  {
+    "id": "c-topic-09",
+    "category": "causes",
+    "categoryName": "Nhóm Nguyên Nhân / Lý Do",
+    "topicCode": "ĐỀ SỐ 09",
+    "title": "There are several reasons why decision-making skills are important.",
+    "center": "Decision-making skills",
+    "branches": [
+      {
+        "num": 1,
+        "text": "solve problems effectively",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Giải quyết các vấn đề một cách hiệu quả"
+      },
+      {
+        "num": 2,
+        "text": "improve personal responsibility",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Nâng cao tinh thần trách nhiệm của bản thân"
+      },
+      {
+        "num": 3,
+        "text": "save time",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Tiết kiệm thời gian và hạn chế sai lầm"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "Who do you think should learn decision-making skills?",
+        "vi": "Theo bạn những ai nên học kỹ năng ra quyết định?",
+        "a": "I think <strong>everyone should learn decision-making skills</strong>. Students and young professionals need them to <strong>choose career paths and make wise daily choices</strong>."
+      },
+      {
+        "q": "What can happen if a person doesn’t have good decision-making skills?",
+        "vi": "Điều gì có thể xảy ra nếu một người không có kỹ năng ra quyết định tốt?",
+        "a": "They may <strong>make poor choices and face stressful problems</strong>. This can <strong>waste their precious time and hurt their study or career progress</strong>."
+      },
+      {
+        "q": "How can people learn or develop decision-making skills?",
+        "vi": "Mọi người có thể rèn luyện hoặc phát triển kỹ năng ra quyết định bằng cách nào?",
+        "a": "People can <strong>learn from past mistakes and ask experienced mentors for advice</strong>. Practicing <strong>evaluating pros and cons before choosing</strong> is also very helpful."
+      }
+    ]
+  },
+  {
+    "id": "c-topic-10",
+    "category": "causes",
+    "categoryName": "Nhóm Nguyên Nhân / Lý Do",
+    "topicCode": "ĐỀ SỐ 10",
+    "title": "Maintaining calmness is important for effective communication.",
+    "center": "Maintaining calmness",
+    "branches": [
+      {
+        "num": 1,
+        "text": "promote active listening",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Thúc đẩy việc chú tâm lắng nghe người khác"
+      },
+      {
+        "num": 2,
+        "text": "solve conflicts",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Giúp tháo gỡ và giải quyết các mâu thuẫn"
+      },
+      {
+        "num": 3,
+        "text": "help build understanding",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Xây dựng sự thấu hiểu lẫn nhau"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What other factors are important for effective communication?",
+        "vi": "Những yếu tố nào khác cũng quan trọng để giao tiếp hiệu quả?",
+        "a": "I think <strong>polite body language and clear speaking</strong> are equally important. People should also <strong>respect different points of view</strong>."
+      },
+      {
+        "q": "Why do you think some people find it difficult to stay calm in conversations?",
+        "vi": "Tại sao một số người lại thấy khó giữ bình tĩnh trong các cuộc trò chuyện?",
+        "a": "Some people <strong>get angry easily under heavy stress or pressure</strong>. In addition, when disagreements happen, they may <strong>react emotionally without thinking carefully first</strong>."
+      },
+      {
+        "q": "Do you think people should always stay calm when communicating? Why or why not?",
+        "vi": "Bạn có nghĩ mọi người lúc nào cũng nên giữ bình tĩnh khi giao tiếp không? Tại sao?",
+        "a": "Yes, I think so. Staying calm helps people <strong>express ideas clearly and avoid hurtful words</strong>. It also <strong>protects long-term relationships from being damaged</strong>."
+      }
+    ]
+  },
+  {
+    "id": "w-topic-10",
+    "category": "ways",
+    "categoryName": "Nhóm Cách Thức",
+    "topicCode": "ĐỀ SỐ 10",
+    "title": "There are several solutions to reduce obesity.",
+    "center": "Reduce obesity",
+    "branches": [
+      {
+        "num": 1,
+        "text": "cook at home",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Tự nấu ăn lành mạnh tại nhà"
+      },
+      {
+        "num": 2,
+        "text": "limit fast food consumption",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Hạn chế ăn thức ăn nhanh"
+      },
+      {
+        "num": 3,
+        "text": "do more physical exercise",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Tập thể dục thể thao nhiều hơn"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What types of fast food are popular in your country?",
+        "vi": "Những loại đồ ăn nhanh nào phổ biến ở nước bạn?",
+        "a": "<strong>Fried chicken, hamburgers, pizza, and milk tea</strong> are very popular in Vietnam, especially among teenagers and young students."
+      },
+      {
+        "q": "Why do many people choose to eat fast food?",
+        "vi": "Tại sao nhiều người lại chọn ăn đồ ăn nhanh?",
+        "a": "They choose fast food because it is <strong>quick, tasty, and very convenient for busy schedules</strong>. Many fast-food restaurants also <strong>have cozy places to hang out</strong>."
+      },
+      {
+        "q": "What can governments do to encourage people to live a healthier lifestyle?",
+        "vi": "Chính phủ có thể làm gì để khuyến khích người dân sống lành mạnh hơn?",
+        "a": "Governments should <strong>build more free public parks and outdoor sports equipment</strong>. They can also <strong>run public campaigns about healthy eating and tax sugary drinks</strong>."
+      }
+    ]
+  },
+  {
+    "id": "w-topic-11",
+    "category": "ways",
+    "categoryName": "Nhóm Cách Thức",
+    "topicCode": "ĐỀ SỐ 11",
+    "title": "There are several ways to make the world a better place.",
+    "center": "Make the world a better place",
+    "branches": [
+      {
+        "num": 1,
+        "text": "reduce pollution",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Giảm thiểu ô nhiễm môi trường"
+      },
+      {
+        "num": 2,
+        "text": "do volunteer work",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Tham gia công việc tình nguyện"
+      },
+      {
+        "num": 3,
+        "text": "follow laws and regulations",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Tuân thủ luật pháp và các quy định"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What environmental problems are most serious in your country?",
+        "vi": "Vấn đề môi trường nào nghiêm trọng nhất ở nước bạn?",
+        "a": "I think <strong>air pollution and plastic waste are the most serious problems</strong>. In big cities, <strong>heavy traffic emissions affect people's health directly</strong>."
+      },
+      {
+        "q": "Do you think individuals or the government should take more responsibility for improving society?",
+        "vi": "Cá nhân hay chính phủ nên chịu nhiều trách nhiệm hơn trong việc cải thiện xã hội?",
+        "a": "I think <strong>both should share the responsibility equally</strong>. Governments can <strong>enact strict laws</strong>, while individuals must <strong>obey rules and take green daily actions</strong>."
+      },
+      {
+        "q": "How can young people help create a better future for the world?",
+        "vi": "Người trẻ có thể giúp tạo ra một tương lai tốt đẹp hơn cho thế giới bằng cách nào?",
+        "a": "Young people can <strong>study hard, master new technologies, and protect the environment</strong>. They can also <strong>spread kindness and help disadvantaged people in society</strong>."
+      }
+    ]
+  },
+  {
+    "id": "w-topic-12",
+    "category": "ways",
+    "categoryName": "Nhóm Cách Thức",
+    "topicCode": "ĐỀ SỐ 12",
+    "title": "Technology has influenced people’s working habits in many ways.",
+    "center": "Technology and working habits",
+    "branches": [
+      {
+        "num": 1,
+        "text": "offer flexible working styles",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Mang lại các hình thức làm việc linh hoạt như làm việc từ xa"
+      },
+      {
+        "num": 2,
+        "text": "support communication",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Hỗ trợ việc giao tiếp, họp trực tuyến dễ dàng"
+      },
+      {
+        "num": 3,
+        "text": "increase efficiency",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Nâng cao năng suất và hiệu quả công việc"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "How has technology made work easier for people nowadays?",
+        "vi": "Công nghệ đã giúp công việc của con người dễ dàng hơn như thế nào ngày nay?",
+        "a": "Technology allows people to <strong>automate boring tasks, share documents instantly, and work from anywhere</strong>. Therefore, work becomes <strong>faster and much more convenient</strong>."
+      },
+      {
+        "q": "What skills do workers need to use technology effectively?",
+        "vi": "Người lao động cần những kỹ năng gì để sử dụng công nghệ hiệu quả?",
+        "a": "Workers need <strong>basic computer skills, digital communication skills, and data security awareness</strong>. They also need <strong>adaptability to learn new software tools continuously</strong>."
+      },
+      {
+        "q": "Do you think technology will improve working habits even more in the future?",
+        "vi": "Bạn có nghĩ công nghệ sẽ còn cải thiện thói quen làm việc nhiều hơn nữa trong tương lai?",
+        "a": "Yes, I believe so. <strong>AI tools and virtual offices</strong> will help people work even smarter. However, workers must also <strong>learn to balance screen time and real-life health</strong>."
+      }
+    ]
   }
 ];
 
@@ -2691,6 +3461,9 @@ const CLASS_STUDENTS = {
         "Võ Thị Bảo Ngọc", "Lê Tiến Phát", "Nguyễn Hoàng Thông", "Nguyễn Kim Tiền", 
         "Lê Thị Bảo Trân", "Võ Thị Diễm Trinh", "Nguyễn Tấn Trung", "Nguyễn Tiến Trung", 
         "Trần Thị Ánh Tuyết", "Đặng Nguyễn Khánh Uyên", "Nguyễn Thị Chúc Yến"
+    ],
+    "B2": [
+        "Gia Tuệ"
     ]
 };
 
@@ -2783,11 +3556,11 @@ function initAuth() {
             finalClass = formattedClass || 'GV';
             state.student.isTeacher = true;
         } else {
-            // 2. Kiểm tra học viên thuộc 5 lớp: CB206, CB210, CB211, CB213, ONB103
-            const allowedClasses = ['CB206', 'CB210', 'CB211', 'CB213', 'ONB103', 'CB219', 'B212'];
+            // 2. Kiểm tra học viên thuộc các lớp được cấp phép
+            const allowedClasses = ['CB206', 'CB210', 'CB211', 'CB213', 'ONB103', 'CB219', 'B212', 'B2'];
             if (!allowedClasses.includes(formattedClass)) {
                 if (errorMsg) {
-                    errorMsg.textContent = 'Mã lớp không hợp lệ! Web chỉ nhận các lớp CB206, CB210 (CB21O), CB211, CB213, ONB103 hoặc Giáo viên (PTMN / GV).';
+                    errorMsg.textContent = 'Mã lớp không hợp lệ! Web chỉ nhận các lớp CB206, CB210, CB211, CB213, ONB103, CB219, B212, B2 hoặc Giáo viên (PTMN / GV).';
                     errorMsg.style.display = 'block';
                 }
                 if (classInput) classInput.focus();
@@ -2795,7 +3568,10 @@ function initAuth() {
             }
 
             const roster = CLASS_STUDENTS[formattedClass];
-            const matchedStudent = roster.find(s => normalizeStr(s) === normName);
+            const matchedStudent = roster.find(s => {
+                const normS = normalizeStr(s);
+                return normS === normName || normName.endsWith(' ' + normS) || normS.endsWith(' ' + normName);
+            });
 
             if (!matchedStudent) {
                 if (errorMsg) {
@@ -2806,7 +3582,7 @@ function initAuth() {
                 return;
             }
 
-            finalName = matchedStudent;
+            finalName = (formattedClass === 'B2' && nameVal.trim().length > matchedStudent.length) ? nameVal.trim() : matchedStudent;
             finalClass = formattedClass;
             state.student.isTeacher = false;
         }
@@ -3560,10 +4336,14 @@ const ALL_PRACTICE_TOPIC_IDS = [
     'b-topic-01', 'b-topic-02', 'b-topic-03', 'b-topic-04', 'b-topic-05',
     'b-topic-06', 'b-topic-07', 'b-topic-08', 'b-topic-09', 'b-topic-10',
     'b-topic-11', 'b-topic-12', 'b-topic-13', 'b-topic-14', 'b-topic-15',
+    'b-topic-16', 'b-topic-17', 'b-topic-18', 'b-topic-19',
     'd-topic-01', 'd-topic-02', 'd-topic-03', 'd-topic-04', 'd-topic-05', 'd-topic-06',
+    'd-topic-07', 'd-topic-08', 'd-topic-09',
     'c-topic-01', 'c-topic-02', 'c-topic-03', 'c-topic-04', 'c-topic-05', 'c-topic-06',
+    'c-topic-07', 'c-topic-08', 'c-topic-09', 'c-topic-10',
     'w-topic-01', 'w-topic-02', 'w-topic-03', 'w-topic-04', 'w-topic-05',
     'w-topic-06', 'w-topic-07', 'w-topic-08', 'w-topic-09',
+    'w-topic-10', 'w-topic-11', 'w-topic-12',
     'q-topic-01', 'q-topic-02', 'q-topic-03', 'q-topic-04', 'q-topic-05', 'q-topic-06',
     'f-topic-01', 'f-topic-02', 'f-topic-03'
 ];
