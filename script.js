@@ -6478,26 +6478,30 @@ function showToast(msg) {
 // TOPIC COMPLETION TRACKER & PROGRESS BACKUP/RESTORE SYSTEM
 // ==========================================================================
 const ALL_PRACTICE_TOPIC_IDS = [
-    'b-topic-01', 'b-topic-02', 'b-topic-03', 'b-topic-04', 'b-topic-05',
-    'b-topic-06', 'b-topic-07', 'b-topic-08', 'b-topic-09', 'b-topic-10',
-    'b-topic-11', 'b-topic-12', 'b-topic-13', 'b-topic-14', 'b-topic-15',
-    'b-topic-16', 'b-topic-17', 'b-topic-18', 'b-topic-19',
-    'd-topic-01', 'd-topic-02', 'd-topic-03', 'd-topic-04', 'd-topic-05', 'd-topic-06',
-    'd-topic-07', 'd-topic-08', 'd-topic-09',
-    'c-topic-01', 'c-topic-02', 'c-topic-03', 'c-topic-04', 'c-topic-05', 'c-topic-06',
-    'c-topic-07', 'c-topic-08', 'c-topic-09', 'c-topic-10',
-    'w-topic-01', 'w-topic-02', 'w-topic-03', 'w-topic-04', 'w-topic-05',
-    'w-topic-06', 'w-topic-07', 'w-topic-08', 'w-topic-09',
-    'w-topic-10', 'w-topic-11', 'w-topic-12',
-    'q-topic-01', 'q-topic-02', 'q-topic-03', 'q-topic-04', 'q-topic-05', 'q-topic-06',
-    'f-topic-01', 'f-topic-02', 'f-topic-03'
+    'b-topic-01', 'b-topic-02', 'b-topic-03', 'b-topic-04', 'b-topic-05', 'b-topic-06',
+    'b-topic-07', 'b-topic-08', 'b-topic-09', 'b-topic-10', 'b-topic-11', 'b-topic-12',
+    'b-topic-13', 'b-topic-14', 'b-topic-15', 'b-topic-16', 'b-topic-17', 'b-topic-18',
+    'b-topic-19', 'b-topic-20', 'b-topic-21', 'b-topic-22', 'b-topic-23', 'b-topic-24',
+    'b-topic-25', 'b-topic-26', 'b-topic-27', 'b-topic-28', 'b-topic-29', 'b-topic-30',
+    'b-topic-31', 'b-topic-32', 'b-topic-33', 'b-topic-34', 'b-topic-35', 'b-topic-36',
+    'b-topic-37', 'b-topic-38', 'b-topic-39', 'b-topic-40', 'b-topic-41', 'b-topic-42',
+    'b-topic-43', 'b-topic-44', 'b-topic-45', 'b-topic-46', 'b-topic-47', 'd-topic-01',
+    'd-topic-02', 'd-topic-03', 'd-topic-04', 'd-topic-05', 'd-topic-06', 'd-topic-07',
+    'd-topic-08', 'd-topic-09', 'd-topic-10', 'd-topic-11', 'd-topic-12', 'c-topic-01',
+    'c-topic-02', 'c-topic-03', 'c-topic-04', 'c-topic-05', 'c-topic-06', 'c-topic-07',
+    'c-topic-08', 'c-topic-09', 'c-topic-10', 'c-topic-11', 'c-topic-12', 'c-topic-13',
+    'c-topic-14', 'c-topic-15', 'w-topic-01', 'w-topic-02', 'w-topic-03', 'w-topic-04',
+    'w-topic-05', 'w-topic-06', 'w-topic-07', 'w-topic-08', 'w-topic-09', 'w-topic-10',
+    'w-topic-11', 'w-topic-12', 'w-topic-13', 'w-topic-14', 'w-topic-15', 'q-topic-01',
+    'q-topic-02', 'q-topic-03', 'q-topic-04', 'q-topic-05', 'q-topic-06', 'f-topic-01',
+    'f-topic-02', 'f-topic-03'
 ];
 
 const GROUP_CONFIG = {
-    'b': { name: 'Nhóm Lợi Ích', total: 15 },
-    'd': { name: 'Nhóm Bất Lợi', total: 6 },
-    'c': { name: 'Nhóm Nguyên Nhân', total: 6 },
-    'w': { name: 'Nhóm Cách Thức', total: 9 },
+    'b': { name: 'Nhóm Lợi Ích', total: 47 },
+    'd': { name: 'Nhóm Bất Lợi', total: 12 },
+    'c': { name: 'Nhóm Nguyên Nhân', total: 15 },
+    'w': { name: 'Nhóm Cách Thức', total: 15 },
     'q': { name: 'Nhóm Đặc Điểm', total: 6 },
     'f': { name: 'Nhóm Yếu Tố', total: 3 }
 };
