@@ -3353,6 +3353,611 @@ const ALL_TOPICS_POOL = [
         "a": "Yes, I believe so. <strong>AI tools and virtual offices</strong> will help people work even smarter. However, workers must also <strong>learn to balance screen time and real-life health</strong>."
       }
     ]
+  },
+  {
+    "id": "d-topic-10",
+    "category": "drawbacks",
+    "categoryName": "Nhóm Bất Lợi",
+    "topicCode": "ĐỀ SỐ 10",
+    "title": "There are some drawbacks of using private cars in big cities.",
+    "center": "Private cars",
+    "branches": [
+      {
+        "num": 1,
+        "text": "cause traffic jams",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Gây ùn tắc giao thông nghiêm trọng"
+      },
+      {
+        "num": 2,
+        "text": "pollute the environment",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Gây ô nhiễm môi trường và không khí"
+      },
+      {
+        "num": 3,
+        "text": "waste money",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Tốn kém chi phí, lãng phí tiền bạc"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "Why do people often use private cars?",
+        "vi": "Tại sao mọi người thường thích sử dụng xe ô tô cá nhân?",
+        "a": "Many people prefer private cars because they are **comfortable and convenient**. Drivers don't need to **wait in bad weather** and can travel whenever they want."
+      },
+      {
+        "q": "What means of public transportation should be developed in the area that you live in?",
+        "vi": "Phương tiện giao thông công cộng nào nên được phát triển ở khu vực bạn sống?",
+        "a": "I think the city should **develop modern metro trains and electric buses**. These systems can **carry many passengers quickly** and help reduce air pollution."
+      },
+      {
+        "q": "Do you think public transportation should be free?",
+        "vi": "Bạn có nghĩ rằng phương tiện công cộng nên được miễn phí không?",
+        "a": "Yes, I think so. Free public transit will **encourage more citizens to leave their cars at home**. This can **reduce traffic jams and save money for low-income workers**."
+      }
+    ]
+  },
+  {
+    "id": "d-topic-11",
+    "category": "drawbacks",
+    "categoryName": "Nhóm Bất Lợi",
+    "topicCode": "ĐỀ SỐ 11",
+    "title": "There are many drawbacks of cohabitation.",
+    "center": "Cohabitation",
+    "branches": [
+      {
+        "num": 1,
+        "text": "higher rate of separation",
+        "pos": "top",
+        "type": "noun",
+        "vi": "Tỷ lệ chia tay và tan vỡ cao hơn"
+      },
+      {
+        "num": 2,
+        "text": "more financial issues",
+        "pos": "right",
+        "type": "noun",
+        "vi": "Nhiều khúc mắc và bất đồng về tài chính"
+      },
+      {
+        "num": 3,
+        "text": "more tension",
+        "pos": "bottom",
+        "type": "noun",
+        "vi": "Nhiều áp lực và căng thẳng tâm lý"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What do you think about young people getting married nowadays?",
+        "vi": "Bạn nghĩ gì về việc giới trẻ kết hôn ngày nay?",
+        "a": "I notice that young people tend to **get married later than previous generations**. They want to **focus on education, build a stable career**, and achieve financial independence first."
+      },
+      {
+        "q": "Do you think Western values influence young people's views on marriage in Vietnam?",
+        "vi": "Bạn có nghĩ các giá trị phương Tây ảnh hưởng đến quan điểm hôn nhân của giới trẻ Việt Nam?",
+        "a": "Yes, Western culture encourages young Vietnamese to **value personal freedom and independence**. As a result, more people **accept living alone or cohabitation** before marriage."
+      },
+      {
+        "q": "Why is the divorce rate increasing?",
+        "vi": "Tại sao tỷ lệ ly hôn ngày càng gia tăng?",
+        "a": "The divorce rate is rising because of **heavy financial pressure, busy lifestyles, and lack of communication**. Spouses often **argue over money and don't spend enough quality time together**."
+      }
+    ]
+  },
+  {
+    "id": "d-topic-12",
+    "category": "drawbacks",
+    "categoryName": "Nhóm Bất Lợi",
+    "topicCode": "ĐỀ SỐ 12",
+    "title": "Social media has some disadvantages.",
+    "center": "Social media",
+    "branches": [
+      {
+        "num": 1,
+        "text": "get distracted easily",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Dễ bị xao nhãng học tập và công việc"
+      },
+      {
+        "num": 2,
+        "text": "lack face-to-face interaction",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Thiếu sự tương tác và gắn kết trực tiếp"
+      },
+      {
+        "num": 3,
+        "text": "leak personal information",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Dễ bị rò rỉ và lộ thông tin cá nhân"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "Do you think social media is important for young people today?",
+        "vi": "Bạn có nghĩ rằng mạng xã hội quan trọng với giới trẻ ngày nay không?",
+        "a": "Yes, I think it is very important. Social media helps young people **stay connected with friends, search for study materials, and update daily news quickly**."
+      },
+      {
+        "q": "Which social media platforms are the most popular nowadays?",
+        "vi": "Nền tảng mạng xã hội nào phổ biến nhất hiện nay?",
+        "a": "Platforms like **Facebook, TikTok, and Instagram** are the most popular. Young people love TikTok for **entertaining short videos** and Instagram for **sharing beautiful photos**."
+      },
+      {
+        "q": "Should children be supervised when they use social media? Why or why not?",
+        "vi": "Trẻ em có nên được giám sát khi dùng mạng xã hội không? Tại sao?",
+        "a": "Yes, absolutely. Parents should monitor their kids to **protect them from online scams, violent content, and cyberbullying**."
+      }
+    ]
+  },
+  {
+    "id": "w-topic-13",
+    "category": "ways",
+    "categoryName": "Nhóm Cách Thức",
+    "topicCode": "ĐỀ SỐ 13",
+    "title": "There are some funny ways to learn English.",
+    "center": "Learn English",
+    "branches": [
+      {
+        "num": 1,
+        "text": "games",
+        "pos": "top",
+        "type": "noun",
+        "vi": "Chơi các trò chơi ngôn ngữ"
+      },
+      {
+        "num": 2,
+        "text": "english clubs",
+        "pos": "right",
+        "type": "noun",
+        "vi": "Tham gia các câu lạc bộ tiếng Anh"
+      },
+      {
+        "num": 3,
+        "text": "songs",
+        "pos": "bottom",
+        "type": "noun",
+        "vi": "Học tiếng Anh qua các bài hát"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "Why is playing games useful for learning English?",
+        "vi": "Tại sao chơi trò chơi lại hữu ích cho việc học tiếng Anh?",
+        "a": "Playing games makes learning **fun and low-stress**. It stimulates the brain, creates healthy competition, and helps players **remember vocabulary much longer**."
+      },
+      {
+        "q": "Does learning English through music help improve English skills?",
+        "vi": "Học tiếng Anh qua âm nhạc có giúp cải thiện kỹ năng không?",
+        "a": "Yes, absolutely. Music helps improve **listening comprehension and natural pronunciation**. By singing along, learners can **mimic native accents and intonation easily**."
+      },
+      {
+        "q": "Do children find it easier to learn English than adults?",
+        "vi": "Trẻ em có học tiếng Anh dễ hơn người lớn không?",
+        "a": "Yes, I think so. Children learn through **play, imitation, and curiosity without fear of making mistakes**. Their brains absorb new sounds and pronunciation **much more naturally**."
+      }
+    ]
+  },
+  {
+    "id": "w-topic-14",
+    "category": "ways",
+    "categoryName": "Nhóm Cách Thức",
+    "topicCode": "ĐỀ SỐ 14",
+    "title": "There are many ways to create healthy eating habits.",
+    "center": "Healthy eating habits",
+    "branches": [
+      {
+        "num": 1,
+        "text": "eat more vegetables",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Ăn nhiều rau xanh và trái cây tươi"
+      },
+      {
+        "num": 2,
+        "text": "cook at home more regularly",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Tự nấu ăn tại nhà thường xuyên hơn"
+      },
+      {
+        "num": 3,
+        "text": "eat less fast food",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Hạn chế đồ ăn nhanh và thực phẩm chế biến sẵn"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "Why is it important to build healthy eating habits?",
+        "vi": "Tại sao việc xây dựng thói quen ăn uống lành mạnh lại quan trọng?",
+        "a": "A healthy diet **provides sustained energy, keeps the body fit, and strengthens immunity**. It effectively **prevents dangerous chronic diseases** like diabetes and heart problems."
+      },
+      {
+        "q": "In your opinion, how has eating behavior in your area changed compared to the past?",
+        "vi": "Theo bạn, thói quen ăn uống ở nơi bạn sống đã thay đổi như thế nào so với trước đây?",
+        "a": "In the past, people mainly ate **home-cooked meals with fresh local vegetables**. Nowadays, busy lifestyles make many people **rely heavily on food delivery and fast food chains**."
+      },
+      {
+        "q": "How can we promote healthy eating habits?",
+        "vi": "Chúng ta có thể thúc đẩy thói quen ăn uống lành mạnh bằng cách nào?",
+        "a": "Schools and media should **organize nutritional awareness campaigns**. Additionally, supermarkets can **offer discounts on fresh vegetables and healthy organic foods**."
+      }
+    ]
+  },
+  {
+    "id": "w-topic-15",
+    "category": "ways",
+    "categoryName": "Nhóm Cách Thức",
+    "topicCode": "ĐỀ SỐ 15",
+    "title": "There are some ways to reduce crime rates.",
+    "center": "Reduce crime rates",
+    "branches": [
+      {
+        "num": 1,
+        "text": "improve education and training opportunities",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Nâng cao chất lượng giáo dục và đào tạo nghề"
+      },
+      {
+        "num": 2,
+        "text": "install surveillance cameras in public places",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Lắp đặt camera an ninh tại các khu vực công cộng"
+      },
+      {
+        "num": 3,
+        "text": "send criminals to prison",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Áp dụng hình phạt nghiêm khắc và cải tạo phạm nhân"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "Have you ever encountered a criminal in person?",
+        "vi": "Bạn đã bao giờ trực tiếp gặp phải tội phạm chưa?",
+        "a": "Fortunately, I have never had a dangerous encounter. However, I once **witnessed a bag snatcher on a crowded street**, which made me much more cautious in public."
+      },
+      {
+        "q": "What is the most common type of crime in your city?",
+        "vi": "Loại tội phạm phổ biến nhất tại thành phố của bạn là gì?",
+        "a": "In my city, **petty theft, pickpocketing, and online financial scams** are the most common. Scammers frequently use **fake phone calls and links to steal bank accounts**."
+      },
+      {
+        "q": "Do you consider your country to be a safe place to live?",
+        "vi": "Bạn có coi đất nước của mình là một nơi an toàn để sinh sống không?",
+        "a": "Yes, definitely. Vietnam is a **very peaceful country with strict gun control laws**. People can **walk outside at night without worrying about violent crime**."
+      }
+    ]
+  },
+  {
+    "id": "c-topic-11",
+    "category": "causes",
+    "categoryName": "Nhóm Nguyên Nhân",
+    "topicCode": "ĐỀ SỐ 11",
+    "title": "There are some causes of overpopulation.",
+    "center": "Overpopulation",
+    "branches": [
+      {
+        "num": 1,
+        "text": "decline in death rate",
+        "pos": "top",
+        "type": "noun",
+        "vi": "Tỷ lệ tử vong giảm mạnh"
+      },
+      {
+        "num": 2,
+        "text": "lack of family planning",
+        "pos": "right",
+        "type": "noun",
+        "vi": "Thiếu kiến thức kế hoạch hóa gia đình"
+      },
+      {
+        "num": 3,
+        "text": "better health care system",
+        "pos": "bottom",
+        "type": "noun",
+        "vi": "Hệ thống chăm sóc y tế ngày càng hoàn thiện"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What are some negative effects of overpopulation?",
+        "vi": "Những tác động tiêu cực của việc bùng nổ dân số là gì?",
+        "a": "Overpopulation leads to **severe traffic jams, housing shortages, pollution, and high unemployment**. It also puts enormous pressure on **water and healthcare systems**."
+      },
+      {
+        "q": "What can be done to solve overpopulation?",
+        "vi": "Có thể làm gì để giải quyết vấn đề bùng nổ dân số?",
+        "a": "Governments should **invest in sex education, provide free birth control methods**, and encourage couples to have smaller families."
+      },
+      {
+        "q": "Do developing countries suffer more from overpopulation than developed ones?",
+        "vi": "Các nước đang phát triển có chịu ảnh hưởng nặng nề hơn các nước phát triển không?",
+        "a": "Yes, definitely. Developing countries have **limited financial budgets and weaker public infrastructure**, making it harder to provide enough food, hospitals, and schools."
+      }
+    ]
+  },
+  {
+    "id": "c-topic-12",
+    "category": "causes",
+    "categoryName": "Nhóm Nguyên Nhân",
+    "topicCode": "ĐỀ SỐ 12",
+    "title": "There are several reasons for divorce.",
+    "center": "Divorce",
+    "branches": [
+      {
+        "num": 1,
+        "text": "lack of responsibility",
+        "pos": "top",
+        "type": "noun",
+        "vi": "Thiếu tinh thần trách nhiệm với gia đình"
+      },
+      {
+        "num": 2,
+        "text": "financial burden",
+        "pos": "right",
+        "type": "noun",
+        "vi": "Gánh nặng và áp lực tài chính"
+      },
+      {
+        "num": 3,
+        "text": "communication problems",
+        "pos": "bottom",
+        "type": "noun",
+        "vi": "Bất đồng và thiếu giao tiếp thấu hiểu"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What are some advantages of getting married?",
+        "vi": "Những ưu điểm của việc kết hôn là gì?",
+        "a": "Marriage offers **lifelong companionship, emotional comfort, and mutual financial support**. Raising children together also provides a **stable and loving home environment**."
+      },
+      {
+        "q": "How can people maintain a happy marriage?",
+        "vi": "Làm thế nào để duy trì một cuộc hôn nhân hạnh phúc?",
+        "a": "Spouses should **practice active listening, respect each other's differences, and share chores**. Spending **regular quality time on dates** also keeps love alive."
+      },
+      {
+        "q": "Some people say young people today don’t want to get married. What do you think about this?",
+        "vi": "Nhiều người nói giới trẻ ngày nay không muốn kết hôn. Bạn nghĩ gì về điều này?",
+        "a": "I think it is partly true. High living costs and career demands make many young people **fear the burdens of marriage and prioritize personal freedom**."
+      }
+    ]
+  },
+  {
+    "id": "c-topic-13",
+    "category": "causes",
+    "categoryName": "Nhóm Nguyên Nhân",
+    "topicCode": "ĐỀ SỐ 13",
+    "title": "Higher education should be free for everyone.",
+    "center": "Free higher education",
+    "branches": [
+      {
+        "num": 1,
+        "text": "an equal chance for everyone",
+        "pos": "top",
+        "type": "noun",
+        "vi": "Tạo cơ hội học tập bình đẳng cho mọi tầng lớp"
+      },
+      {
+        "num": 2,
+        "text": "a safer world",
+        "pos": "right",
+        "type": "noun",
+        "vi": "Xây dựng một xã hội văn minh và an toàn hơn"
+      },
+      {
+        "num": 3,
+        "text": "solutions to unemployment",
+        "pos": "bottom",
+        "type": "noun",
+        "vi": "Giải pháp hữu hiệu giúp giảm tỷ lệ thất nghiệp"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "Do you think it is reasonable to apply free higher education in Vietnam?",
+        "vi": "Bạn có nghĩ rằng việc áp dụng miễn phí đại học ở Việt Nam là hợp lý không?",
+        "a": "Currently, full free tuition is difficult because of **limited state budgets**. However, the government can **provide substantial scholarships and low-interest student loans** for needy learners."
+      },
+      {
+        "q": "“University is the only way to success”. Do you agree?",
+        "vi": "“Đại học là con đường duy nhất dẫn đến thành công”. Bạn có đồng ý không?",
+        "a": "No, I disagree. While university is valuable, many people achieve great success through **vocational careers, entrepreneurship, and practical hands-on experience**."
+      },
+      {
+        "q": "Should lower education be free for everyone as well?",
+        "vi": "Các bậc học thấp hơn có nên được miễn phí cho mọi người không?",
+        "a": "Yes, absolutely. Primary and secondary schooling are **fundamental human rights**. Universal free school ensures that **all children become literate and active citizens**."
+      }
+    ]
+  },
+  {
+    "id": "c-topic-14",
+    "category": "causes",
+    "categoryName": "Nhóm Nguyên Nhân",
+    "topicCode": "ĐỀ SỐ 14",
+    "title": "Childhood is the most important time of a person’s life.",
+    "center": "Childhood",
+    "branches": [
+      {
+        "num": 1,
+        "text": "develop physical health",
+        "pos": "top",
+        "type": "verb",
+        "vi": "Phát triển thể chất và nền tảng sức khỏe"
+      },
+      {
+        "num": 2,
+        "text": "form personality",
+        "pos": "right",
+        "type": "verb",
+        "vi": "Hình thành nhân cách, tính cách và đạo đức"
+      },
+      {
+        "num": 3,
+        "text": "learn things fast",
+        "pos": "bottom",
+        "type": "verb",
+        "vi": "Khả năng tiếp thu và học hỏi nhanh nhất"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "How does childhood influence a person's future health?",
+        "vi": "Tuổi thơ ảnh hưởng như thế nào đến sức khỏe tương lai của một người?",
+        "a": "A healthy childhood with **wholesome food and sports builds a strong immune system**. Conversely, early malnutrition or lack of exercise leads to **chronic diseases in adulthood**."
+      },
+      {
+        "q": "In what ways does a child's personality develop during early years?",
+        "vi": "Nhân cách của một đứa trẻ phát triển theo những cách nào trong những năm đầu đời?",
+        "a": "Children develop their character through **family interaction, playing with peers, and imitating parents' actions**. Warm encouragement helps them become **confident and caring individuals**."
+      },
+      {
+        "q": "Why do children tend to learn new things more quickly than adults?",
+        "vi": "Tại sao trẻ em có xu hướng học những điều mới nhanh hơn người lớn?",
+        "a": "Children have **curious minds, highly flexible brains, and no fear of making mistakes**. They absorb new information like sponges through **daily play and exploration**."
+      }
+    ]
+  },
+  {
+    "id": "c-topic-15",
+    "category": "causes",
+    "categoryName": "Nhóm Nguyên Nhân",
+    "topicCode": "ĐỀ SỐ 15",
+    "title": "Traditional music should be kept.",
+    "center": "Traditional music",
+    "branches": [
+      {
+        "num": 1,
+        "text": "cultural values",
+        "pos": "top",
+        "type": "noun",
+        "vi": "Lưu giữ bản sắc và giá trị văn hóa độc đáo"
+      },
+      {
+        "num": 2,
+        "text": "historical values",
+        "pos": "right",
+        "type": "noun",
+        "vi": "Bảo tồn các chứng tích và giá trị lịch sử hào hùng"
+      },
+      {
+        "num": 3,
+        "text": "educational values",
+        "pos": "bottom",
+        "type": "noun",
+        "vi": "Giá trị giáo dục đạo đức và tình yêu quê hương"
+      },
+      {
+        "num": 4,
+        "text": "[Your own idea]",
+        "pos": "left",
+        "type": "free",
+        "vi": "Ý kiến riêng của bạn"
+      }
+    ],
+    "followups": [
+      {
+        "q": "What role does traditional music play in your country’s culture?",
+        "vi": "Âm nhạc truyền thống đóng vai trò gì trong văn hóa đất nước bạn?",
+        "a": "Traditional music is the **spiritual soul of Vietnamese culture**. It is performed during **traditional festivals, village rituals, and lunar new year celebrations**."
+      },
+      {
+        "q": "How can we promote traditional music among younger generations?",
+        "vi": "Làm thế nào để quảng bá âm nhạc truyền thống cho thế hệ trẻ?",
+        "a": "Schools should **include traditional instruments in music classes**. Also, modern musicians can **remix folk melodies with contemporary pop music** to attract young listeners."
+      },
+      {
+        "q": "Do you think traditional music is losing its popularity? Why or why not?",
+        "vi": "Bạn có nghĩ rằng âm nhạc truyền thống đang mất dần sự phổ biến không? Tại sao?",
+        "a": "Yes, unfortunately. Many young people prefer **modern pop, rock, and EDM**. However, cultural preservation efforts are helping **revive interest in recent years**."
+      }
+    ]
   }
 ];
 
