@@ -5607,9 +5607,7 @@ const CLASS_STUDENTS = {
         "Lê Thị Bảo Trân", "Võ Thị Diễm Trinh", "Nguyễn Tấn Trung", "Nguyễn Tiến Trung", 
         "Trần Thị Ánh Tuyết", "Đặng Nguyễn Khánh Uyên", "Nguyễn Thị Chúc Yến"
     ],
-    "B2": [
-        "Gia Tuệ"
-    ]
+    
 };
 
 // Chuẩn hóa chuỗi so sánh họ tên
@@ -5702,7 +5700,17 @@ function initAuth() {
             state.student.isTeacher = true;
         } else {
             // 2. Kiểm tra học viên thuộc các lớp được cấp phép
-            const allowedClasses = ['CB206', 'CB210', 'CB211', 'CB213', 'ONB103', 'CB219', 'B212', 'B2'];
+            const isGiaTue = normName.includes('gia tue') || normName.replace(/\s+/g, '').includes('giatue');
+            if (isGiaTue || formattedClass === 'B2') {
+                if (errorMsg) {
+                    errorMsg.textContent = 'Tài khoản học viên "Gia Tuệ" hiện đã bị KHÓA! Vui lòng liên hệ Giáo viên (Cô Nguyệt).';
+                    errorMsg.style.display = 'block';
+                }
+                if (nameInput) nameInput.focus();
+                return;
+            }
+
+            const allowedClasses = ['CB206', 'CB210', 'CB211', 'CB213', 'ONB103', 'CB219', 'B212'];
             if (!allowedClasses.includes(formattedClass)) {
                 if (errorMsg) {
                     errorMsg.textContent = 'Mã lớp không hợp lệ! Web chỉ nhận các lớp CB206, CB210, CB211, CB213, ONB103, CB219, B212, B2 hoặc Giáo viên (PTMN / GV).';
